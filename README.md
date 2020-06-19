@@ -1,7 +1,7 @@
 ## Gist
 https://encurtame.app/r/L5Jv9
 
-## branches
+## Branches
 01-pods  
 02-deployments  
 03-services  
